@@ -11,7 +11,7 @@
         "url": "git+https://github.com/BloomInstituteOfTechnology/web-sprint-challenge-build-a-web-api"
     },
     "dependencies": {
-        "express": "4.17.1",
+        "express": "^4.17.1",
         "helmet": "4.6.0",
         "knex": "0.95.11",
         "sqlite3": "5.0.2"
